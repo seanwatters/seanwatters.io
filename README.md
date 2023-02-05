@@ -1,0 +1,2 @@
+# seanwatters.io
+Personal Website.
